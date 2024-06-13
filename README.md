@@ -7,7 +7,7 @@
 <a target="_blank" href="https://www.youtube.com/user/Siphon880yt/" rel="nofollow"><img src="https://camo.githubusercontent.com/0bf5ba8ac9f286f95b2a2e86aee46371e0ac03d38b64ee2b78b9b1490df38458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75747562652d7265643f7374796c653d666c6174266c6f676f3d796f7574756265266c6162656c436f6c6f723d726564" alt="Youtube" data-canonical-src="https://img.shields.io/badge/Youtube-red?style=flat&amp;logo=youtube&amp;labelColor=red" style="max-width:10ch;"></a>
 
 ## :page_facing_up: Description:
-By Weng Fei Fung. This is an update to my ChatGPT Boilerplate now leveraging the new 2024 features. Associate your OpenAI calls to a project API key so you can view usage at project level (previously OpenAI only offered User API Keys not distinguishing between projects). In addition, the code now leverages assistants, creating your own GPTs to use on the backend API calls.
+By Weng Fei Fung. Updated ChatGPT boilerplate leveraging the 2024 features. Associate your OpenAI calls to a project API key so you can view usage at project level (previously OpenAI only offered User API Keys not distinguishing between projects). In addition, the code now leverages assistants, creating your own GPTs to use on the backend API calls.
 
 ## :open_file_folder: Table of Contents:
 ---
