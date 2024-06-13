@@ -29,6 +29,8 @@ OPENAI_ASSISTANT_TRANSLATOR=asst_...
 Create your assistant at
 https://platform.openai.com/docs/assistants/overview?context=with-streaming
 
+Please note these assistants are not the same as the GPTs you create in their chat interface.
+
 Grab your API keys and ID's:
 - Organization ID: https://platform.openai.com/settings/organization/general
 - Project ID: https://platform.openai.com/settings/proj_vxAxeUNXy9GofbFJ8qJWDFjR/general
